@@ -1,0 +1,306 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`String list component interaction testing StringListComponent snapshot test 1`] = `
+<div
+  className="sc-tsFYE ha-DNZi"
+>
+  <div
+    className="sc-bhVIhj gcFkvP"
+  >
+    <div
+      className="sc-llJcti bfmfft sc-eGAhfa ljmKPN input input0"
+    >
+      <input
+        className="sc-gicCDI gTEsHJ"
+        dir="auto"
+        name="0"
+        onChange={[Function]}
+        placeholder=""
+        type="text"
+        value="first"
+      />
+      <label
+        className="sc-iIPllB kXojUT"
+        dir="auto"
+      />
+    </div>
+    <button
+      className="sc-kYWVYA itLWnQ"
+      onClick={[Function]}
+    >
+      <svg
+        fill="none"
+        height="20"
+        viewBox="0 0 20 20"
+        width="20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M7 7L10 10M13 13L10 10M10 10L13 7M10 10L7 13"
+          stroke="#000"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1"
+        />
+        <rect
+          height="19"
+          rx="9.5"
+          stroke="#000"
+          width="19"
+          x="0.5"
+          y="0.5"
+        />
+      </svg>
+    </button>
+  </div>
+  <div
+    className="sc-bhVIhj gcFkvP"
+  >
+    <div
+      className="sc-llJcti bfmfft sc-eGAhfa ljmKPN input input1"
+    >
+      <input
+        className="sc-gicCDI gTEsHJ"
+        dir="auto"
+        name="1"
+        onChange={[Function]}
+        placeholder=""
+        type="text"
+        value="second"
+      />
+      <label
+        className="sc-iIPllB kXojUT"
+        dir="auto"
+      />
+    </div>
+    <button
+      className="sc-kYWVYA itLWnQ"
+      onClick={[Function]}
+    >
+      <svg
+        fill="none"
+        height="20"
+        viewBox="0 0 20 20"
+        width="20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M7 7L10 10M13 13L10 10M10 10L13 7M10 10L7 13"
+          stroke="#000"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1"
+        />
+        <rect
+          height="19"
+          rx="9.5"
+          stroke="#000"
+          width="19"
+          x="0.5"
+          y="0.5"
+        />
+      </svg>
+    </button>
+  </div>
+  <div
+    className="sc-bhVIhj gcFkvP"
+  >
+    <div
+      className="sc-llJcti bfmfft sc-eGAhfa ljmKPN input input2"
+    >
+      <input
+        className="sc-gicCDI gTEsHJ"
+        dir="auto"
+        name="2"
+        onChange={[Function]}
+        placeholder=""
+        type="text"
+        value="third"
+      />
+      <label
+        className="sc-iIPllB kXojUT"
+        dir="auto"
+      />
+    </div>
+    <button
+      className="sc-kYWVYA itLWnQ"
+      onClick={[Function]}
+    >
+      <svg
+        fill="none"
+        height="20"
+        viewBox="0 0 20 20"
+        width="20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M7 7L10 10M13 13L10 10M10 10L13 7M10 10L7 13"
+          stroke="#000"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1"
+        />
+        <rect
+          height="19"
+          rx="9.5"
+          stroke="#000"
+          width="19"
+          x="0.5"
+          y="0.5"
+        />
+      </svg>
+    </button>
+  </div>
+  <div
+    className="sc-bhVIhj gcFkvP"
+  >
+    <div
+      className="sc-llJcti bfmfft sc-eGAhfa ljmKPN input input3"
+    >
+      <input
+        className="sc-gicCDI gTEsHJ"
+        dir="auto"
+        name="3"
+        onChange={[Function]}
+        placeholder=""
+        type="text"
+        value="fourth"
+      />
+      <label
+        className="sc-iIPllB kXojUT"
+        dir="auto"
+      />
+    </div>
+    <button
+      className="sc-kYWVYA itLWnQ"
+      onClick={[Function]}
+    >
+      <svg
+        fill="none"
+        height="20"
+        viewBox="0 0 20 20"
+        width="20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M7 7L10 10M13 13L10 10M10 10L13 7M10 10L7 13"
+          stroke="#000"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1"
+        />
+        <rect
+          height="19"
+          rx="9.5"
+          stroke="#000"
+          width="19"
+          x="0.5"
+          y="0.5"
+        />
+      </svg>
+    </button>
+  </div>
+  <div
+    className="sc-bhVIhj gcFkvP"
+  >
+    <div
+      className="sc-llJcti bfmfft sc-eGAhfa ljmKPN input input4"
+    >
+      <input
+        className="sc-gicCDI gTEsHJ"
+        dir="auto"
+        name="4"
+        onChange={[Function]}
+        placeholder=""
+        type="text"
+        value="fifth"
+      />
+      <label
+        className="sc-iIPllB kXojUT"
+        dir="auto"
+      />
+    </div>
+    <button
+      className="sc-kYWVYA itLWnQ"
+      onClick={[Function]}
+    >
+      <svg
+        fill="none"
+        height="20"
+        viewBox="0 0 20 20"
+        width="20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M7 7L10 10M13 13L10 10M10 10L13 7M10 10L7 13"
+          stroke="#000"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1"
+        />
+        <rect
+          height="19"
+          rx="9.5"
+          stroke="#000"
+          width="19"
+          x="0.5"
+          y="0.5"
+        />
+      </svg>
+    </button>
+  </div>
+  <div
+    className="sc-bhVIhj gcFkvP"
+  >
+    <div
+      className="sc-llJcti bfmfft sc-eGAhfa ljmKPN input input5"
+    >
+      <input
+        className="sc-gicCDI gTEsHJ"
+        dir="auto"
+        name="5"
+        onChange={[Function]}
+        placeholder=""
+        type="text"
+        value="sixth"
+      />
+      <label
+        className="sc-iIPllB kXojUT"
+        dir="auto"
+      />
+    </div>
+    <button
+      className="sc-kYWVYA itLWnQ"
+      onClick={[Function]}
+    >
+      <svg
+        fill="none"
+        height="20"
+        viewBox="0 0 20 20"
+        width="20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M7 7L10 10M13 13L10 10M10 10L13 7M10 10L7 13"
+          stroke="#000"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1"
+        />
+        <rect
+          height="19"
+          rx="9.5"
+          stroke="#000"
+          width="19"
+          x="0.5"
+          y="0.5"
+        />
+      </svg>
+    </button>
+  </div>
+  <button
+    className="sc-hAsxaJ fHSKKA"
+    onClick={[Function]}
+  />
+</div>
+`;

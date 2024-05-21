@@ -1,0 +1,8 @@
+export {default as OutgoingSmsView} from './OutgoingSmsView'
+export {default as IncomingSmsView} from './IncomingSmsView'
+export {default as EmailsView} from './EmailsView'
+export {default as QuestionariesView} from './QuestionariesView'
+export {default as ChoosePlatformView} from './ChoosePlatformView'
+export {default as HistoryView} from './HistoryView'
+export {default as UsersActivityView} from './UsersActivityView'
+export {default as AppQuestsView} from './AppQuestsView'

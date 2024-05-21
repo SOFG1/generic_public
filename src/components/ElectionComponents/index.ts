@@ -1,0 +1,5 @@
+export {default as VotingBarComponent} from './VotingBarComponent'
+export {default as GenderStatsComponent} from './GenderStatsComponent'
+export {default as MapHeadingComponent} from './MapHeadingComponent'
+export {default as MapMarkersComponent} from './MapMarkersComponent'
+export {default as MapPopupComponent} from './MapPopupComponent'

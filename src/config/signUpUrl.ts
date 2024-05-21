@@ -1,0 +1,1 @@
+export const signUpUrl = "/internal-reg-fgkrd"

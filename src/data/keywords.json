@@ -1,0 +1,79 @@
+{
+  "my": [
+    "123", "qeqwe", "asdasd", "czx"
+  ],
+  "other": [
+    {
+      "word": "123",
+      "weight": 0.2,
+      "isColor": true
+    },
+    {
+      "word": "dsa",
+      "weight": 0.2,
+      "isColor": false
+    },
+    {
+      "word": "zxczx",
+      "weight": 0.6,
+      "isColor": true
+    },
+    {
+      "word": "asdaaa",
+      "weight": 0.25,
+      "isColor": true
+    },
+    {
+      "word": "hhghg",
+      "weight": 0.5,
+      "isColor": true
+    },
+    {
+      "word": "Power",
+      "weight": 0.8,
+      "isColor": false
+    },
+    {
+      "word": "Force",
+      "weight": 0.65,
+      "isColor": false
+    }
+  ],
+  "other2": [
+    {
+      "value": "123",
+      "count": 0.2,
+      "isColor": true
+    },
+    {
+      "value": "dsa",
+      "count": 0.2,
+      "isColor": false
+    },
+    {
+      "value": "zxczx",
+      "count": 0.6,
+      "isColor": true
+    },
+    {
+      "value": "asdaaa",
+      "count": 0.25,
+      "isColor": true
+    },
+    {
+      "value": "hhghg",
+      "count": 0.5,
+      "isColor": true
+    },
+    {
+      "value": "Power",
+      "count": 0.8,
+      "isColor": false
+    },
+    {
+      "value": "Force",
+      "count": 0.65,
+      "isColor": false
+    }
+  ]
+}

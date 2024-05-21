@@ -1,0 +1,1 @@
+export {default as ConfirmDeleteFull} from './ConfirmDeleteFull'

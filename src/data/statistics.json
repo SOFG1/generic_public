@@ -1,0 +1,104 @@
+{
+  "cities": [
+    {
+      "name": "Tel Aviv-Yafo",
+      "percent": 38,
+      "value": "2,540",
+      "dynamic": true
+    },
+    {
+      "name": "New-York",
+      "percent": 24,
+      "value": "2,304",
+      "dynamic": false
+    },
+    {
+      "name": "Bangalor",
+      "percent": 19,
+      "value": "2,032",
+      "dynamic": true
+    },
+    {
+      "name": "Dallas",
+      "percent": 14,
+      "value": "1,470",
+      "dynamic": true
+    },
+    {
+      "name": "Athenes",
+      "percent": 9,
+      "value": "925",
+      "dynamic": false
+    }
+  ],
+  "age": [
+    {
+      "name": "14-25 y.o.",
+      "percent": 38,
+      "value": "2,540",
+      "dynamic": true
+    },
+    {
+      "name": "26-40 y.o.",
+      "percent": 24,
+      "value": "2,304",
+      "dynamic": false
+    },
+    {
+      "name": "41-55 y.o.",
+      "percent": 19,
+      "value": "2,032",
+      "dynamic": true
+    },
+    {
+      "name": "56-70 y.o.",
+      "percent": 14,
+      "value": "1,470",
+      "dynamic": true
+    }
+  ],
+  "sex": [
+    {
+      "name": "14-25",
+      "female": 1518,
+      "male": 1241
+    },
+    {
+      "name": "26-40",
+      "female": 1725,
+      "male": 2817
+    },
+    {
+      "name": "41-55",
+      "female": 2530,
+      "male": 1430
+    },
+    {
+      "name": "56-70",
+      "female": 1725,
+      "male": 2817
+    }
+  ],
+  "status": [
+    {
+      "status": "Pro",
+      "value": 720
+    },
+    {
+      "status": "Expert",
+      "value": 980
+    },
+    {
+      "status": "Master",
+      "value": 1470
+    },
+    {
+      "status": "Amateur",
+      "value": 800
+    },
+    {
+      "status": "Newbie",
+      "value": 800
+    }
+  ]
+}

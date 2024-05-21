@@ -1,0 +1,1 @@
+export {default as AddNewWordComponent} from './AddNewWordComponent'

@@ -1,0 +1,30 @@
+import {createAction} from "@reduxjs/toolkit";
+import {IFields, IFilters, IModellingData, IRawDataStats, ITableColumn} from "./types";
+import { IStatus } from "../settings";
+
+export const rawDataGetFilters = createAction('rawData/getFilters')
+export const rawDataGetFields = createAction('rawData/getFields')
+export const rawDataGetTableColumns = createAction('rawData/getTableColumns')
+export const rawDataGetTable = createAction('rawData/getTable')
+export const rawDataDeleteRow = createAction<string>('rawData/deleteRow')
+export const rawDataGetStat = createAction('rawData/getStat')
+export const rawDataUpdateStat = createAction('rawData/updateStat')
+export const rawDataAddFilters = createAction<IFilters[]>('rawData/addFilters')
+export const rawDataAddFields = createAction<IFields[]>('rawData/addFields')
+export const rawDataAddTableColumns = createAction<{name: string, slug: string}[]>('rawData/addTableColumns')
+export const rawDataAddTable = createAction<{ columns: ITableColumn[], count: number }>('rawData/addTable')
+export const rawDataSelectSort = createAction<string>('rawData/selectSort')
+export const rawDataResetSort = createAction('rawData/resetSort')
+export const rawDataSelectPage = createAction<number>('rawData/selectPage')
+export const rawDataApplyFilters = createAction('rawData/applyFilters')
+export const rawDataChangeFilters = createAction<{[key: string]: any}>('rawData/changeFilters')
+export const rawDataAddStats = createAction<IRawDataStats>('rawData/addStats')
+export const rawDataToggleStatsFetching = createAction<boolean>('rawData/toggleStatsFetching')
+export const rawDataToggleTableFetching = createAction<boolean>('rawData/toggleTableFetching')
+export const rawDataDownloadPivot = createAction('rawData/downloadPivot')
+export const rawDataUpdateRowStatus = createAction<{id: string, status: string}>('rawData/updateRowStatus')
+export const rawDataChangeModellingData = createAction<{key: keyof IModellingData, value: number | string[]}>('rawData/changeModellingData')
+export const rawDataSummarizationReport = createAction('rawData/summarizationReport')
+export const rawDataGetStatuses = createAction('rawData/getStatuses')
+export const rawDataSetStatuses = createAction<IStatus>('rawData/setStatuses')
+

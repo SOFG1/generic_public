@@ -1,0 +1,32 @@
+const colors = {
+    graphite_1: "#D0D9DE",
+    graphite_2: "#B0BFC6",
+    graphite_3: "#90A4AF",
+    graphite_4: "#617E8C",
+    graphite_5: "#455B66",
+    graphite_6: "#253238",
+    bg_card: '#fff',
+    white: '#fff',
+    black: '#000',
+    blue_green: "#C2FFFD",
+    orange: "#F06543",
+    orange_2: "#FECD81",
+    orange_3: "#FDB64E",
+    orange_4: "#F8981D",
+    orange_5: "#F57C1F",
+    orange_6: "#E65425",
+    teal_1: "#B3E0DD",
+    cyan_1: "#C2FFFD",
+    cyan_2: "#88D4E2",
+    cyan_3: "#58C7DA",
+    cyan_4: "#1BBDD4",
+    cyan_5: "#1998A7",
+    cyan_6: "#0D6064",
+    cyan_7: "#1CB7CE",
+    menu: "#113D47",
+    grey_3: "#CCCCCC",
+    grey_4: "#999999",
+    grey_5: "#443E3E"
+}
+
+export {colors}

@@ -1,0 +1,8 @@
+export {default as OpponentDataComponent} from './OpponentDataComponent'
+export {default as OpponentGTrendsComponent} from './OpponentGTrendsComponent'
+export {default as SelectOpponentComponent} from './SelectOpponentComponent'
+export {default as SearchOpponentComponent} from './SearchOpponentComponent'
+export {default as GeoTableComponent} from './GeoTableComponent'
+export {default as DemoTableComponent} from './DemoTableComponent'
+export {default as OpponentsRelatedTable} from './OpponentsRelatedTable'
+export {default as OpponentsFilters} from './OpponentsFilters'

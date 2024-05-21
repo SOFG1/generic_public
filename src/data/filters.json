@@ -1,0 +1,28 @@
+[
+  {
+    "type": "text",
+    "label": "Title",
+    "name": "title"
+  },
+  {
+    "type": "int",
+    "label": "Count",
+    "name": "count"
+  },
+  {
+    "type": "dropdown",
+    "label": "City",
+    "name": "city",
+    "variants": ["City 1", "City 2", "City 3"]
+  },
+  {
+    "type": "text",
+    "label": "Title2",
+    "name": "title2"
+  },
+  {
+    "type": "timestamp",
+    "label": "Calendar 1",
+    "name": "calendar"
+  }
+]

@@ -1,0 +1,29 @@
+#minimapWrapper {
+  position: absolute;
+  inset-inline-start: 0;
+  bottom: 0;
+  margin: 5px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  overflow: hidden;
+  z-index: 9;
+}
+
+.minimapRadar {
+  position: absolute;
+  background-color: rgba(16, 84, 154, 0.26);
+}
+
+.minimapImage {
+  position: absolute;
+}
+
+.minimapWrapperIdle {
+  opacity: 0.5;
+  transition: opacity 0.5s;
+}
+
+.minimapWrapperMove {
+  opacity: 0.95;
+  transition: opacity 0.5s;
+}

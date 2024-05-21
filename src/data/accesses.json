@@ -1,0 +1,50 @@
+{
+  "rowData": {
+    "title": "Row data",
+    "value": false,
+    "accesses": [
+      { "name": "Access full book", "isAccess": false},
+      { "name": "Download data", "isAccess": false},
+      { "name": "Create", "isAccess": false},
+      { "name": "Delete / Update", "isAccess": false},
+      { "name": "See statistics", "isAccess": false}
+    ]
+  },
+  "smStats": {
+    "title": "SM stats",
+    "value": true,
+    "accesses": [
+      { "name": "See stats", "isAccess": false},
+      { "name": "Add keywords", "isAccess": false},
+      { "name": "Delete keywords", "isAccess": false},
+      { "name": "Delete words from graf", "isAccess": false},
+      { "name": "New pages", "isAccess": false}
+    ]
+  },
+  "rankingLogin": {
+    "title": "Ranking / LogIn",
+    "value": false,
+    "accesses": []
+  },
+  "callCenter": {
+    "title": "Call - center",
+    "value": true,
+    "accesses": [
+      { "name": "Email", "isAccess": false},
+      { "name": "SMS", "isAccess": false},
+      { "name": "Calling", "isAccess": false}
+    ]
+  },
+  "settings": {
+    "title": "Settings",
+    "value": true,
+    "accesses": [
+      { "name": "Payment", "isAccess": false},
+      { "name": "SMS service", "isAccess": false},
+      { "name": "Email", "isAccess": false},
+      { "name": "Calling (IPphone)", "isAccess": false},
+      { "name": "Facebook", "isAccess": false},
+      { "name": "Google", "isAccess": false}
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+import { numberToMonth } from "../utils/numberToMonth"
+
+test("Number to month string utility test", () => {
+
+    const jan = numberToMonth(1)
+    const feb = numberToMonth(2)
+    const mar = numberToMonth(3)
+    const apr = numberToMonth(4)
+    const may = numberToMonth(5)
+    const jun = numberToMonth(6)
+    const jul = numberToMonth(7)
+    const aug = numberToMonth(8)
+    const sep = numberToMonth(9)
+    const oct = numberToMonth(10)
+    const nov = numberToMonth(11)
+    const dec = numberToMonth(12)
+
+    expect(jan).toBe("Jan")
+    expect(feb).toBe("Feb")
+    expect(mar).toBe("Mar")
+    expect(apr).toBe("Apr")
+    expect(may).toBe("May")
+    expect(jun).toBe("Jun")
+    expect(jul).toBe("Jul")
+    expect(aug).toBe("Aug")
+    expect(sep).toBe("Sep")
+    expect(oct).toBe("Oct")
+    expect(nov).toBe("Nov")
+    expect(dec).toBe("Dec")
+})

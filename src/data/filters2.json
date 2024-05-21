@@ -1,0 +1,261 @@
+[
+  {
+    "name": "last_name",
+    "slug": "last_name",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "id",
+    "slug": "id",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "first_name",
+    "slug": "first_name",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "tzav",
+    "slug": "tzav",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "mother_name",
+    "slug": "mothername",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "city",
+    "slug": "city",
+    "type": "str",
+    "fetch": true,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": true
+  },
+  {
+    "name": "zipcode",
+    "slug": "zipcode",
+    "type": "int",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "house",
+    "slug": "house",
+    "type": "int",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "dira",
+    "slug": "dira",
+    "type": "int",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "housegiby",
+    "slug": "housegiby",
+    "type": "int",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "street",
+    "slug": "street",
+    "type": "str",
+    "fetch": true,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": true,
+    "is_multiplier": true
+  },
+  {
+    "name": "cellphone",
+    "slug": "cellphone",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "workphone",
+    "slug": "workphone",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "housephone",
+    "slug": "housephone",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "email",
+    "slug": "email",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "gender",
+    "slug": "gender",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": [
+      {
+        "name": "male",
+        "slug": "male"
+      },
+      {
+        "name": "female",
+        "slug": "female"
+      }
+    ],
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "birthdate",
+    "slug": "birthdate",
+    "type": "str",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "status",
+    "slug": "status",
+    "type": "str",
+    "fetch": true,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "joiningdate",
+    "slug": "joiningdate",
+    "type": "timestamp",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "user_created",
+    "slug": "user_created",
+    "type": "str",
+    "fetch": true,
+    "len_input_prefetch": 2,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "date_created",
+    "slug": "date_created",
+    "type": "timestamp",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "user_modified",
+    "slug": "user_modified",
+    "type": "str",
+    "fetch": true,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "date_modified",
+    "slug": "date_modified",
+    "type": "timestamp",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "cancelled",
+    "slug": "cancelled",
+    "type": "bool",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  },
+  {
+    "name": "cancel_date",
+    "slug": "cancel_date",
+    "type": "timestamp",
+    "fetch": false,
+    "len_input_prefetch": 0,
+    "options": {},
+    "default_disabled": false,
+    "is_multiplier": false
+  }
+]

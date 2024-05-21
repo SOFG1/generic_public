@@ -1,0 +1,203 @@
+{
+  "positive": [
+    {
+      "id": 0,
+      "author": {
+        "name": "Jane Cooper"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "negative": 15,
+        "neutral": 5,
+        "positive": 80
+      }
+    },
+    {
+      "id": 1,
+      "author": {
+        "name": "Jerome Bell"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "negative": 23,
+        "neutral": 5,
+        "positive": 72
+      }
+    },
+    {
+      "id": 2,
+      "author": {
+        "name": "Jane Cooper"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "negative": 25,
+        "neutral": 0,
+        "positive": 75
+      }
+    },
+    {
+      "id": 3,
+      "author": {
+        "name": "Marvin McKinney"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "negative": 23,
+        "neutral": 5,
+        "positive": 72
+      }
+    },
+    {
+      "id": 4,
+      "author": {
+        "name": "Marvin McKinney"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "negative": 23,
+        "neutral": 5,
+        "positive": 72
+      }
+    }
+  ],
+  "negative": [
+    {
+      "id": 0,
+      "author": {
+        "name": "Jane Cooper"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "positive": 15,
+        "neutral": 5,
+        "negative": 80
+      }
+    },
+    {
+      "id": 1,
+      "author": {
+        "name": "Jerome Bell"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "positive": 23,
+        "neutral": 5,
+        "negative": 72
+      }
+    },
+    {
+      "id": 2,
+      "author": {
+        "name": "Jane Cooper"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "positive": 25,
+        "neutral": 0,
+        "negative": 75
+      }
+    },
+    {
+      "id": 3,
+      "author": {
+        "name": "Marvin McKinney"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "positive": 23,
+        "neutral": 5,
+        "negative": 72
+      }
+    },
+    {
+      "id": 4,
+      "author": {
+        "name": "Marvin McKinney"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "positive": 23,
+        "neutral": 5,
+        "negative": 72
+      }
+    }
+  ],
+  "neutral": [
+    {
+      "id": 0,
+      "author": {
+        "name": "Jane Cooper"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "positive": 15,
+        "negative": 5,
+        "neutral": 80
+      }
+    },
+    {
+      "id": 1,
+      "author": {
+        "name": "Jerome Bell"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "positive": 23,
+        "negative": 5,
+        "neutral": 72
+      }
+    },
+    {
+      "id": 2,
+      "author": {
+        "name": "Jane Cooper"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "positive": 25,
+        "negative": 0,
+        "neutral": 75
+      }
+    },
+    {
+      "id": 3,
+      "author": {
+        "name": "Marvin McKinney"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "positive": 23,
+        "negative": 5,
+        "neutral": 72
+      }
+    },
+    {
+      "id": 4,
+      "author": {
+        "name": "Marvin McKinney"
+      },
+      "date": "24.01.2022",
+      "content": "Felis vestibulum a mi platea amet, egestas viverra. Vel, duis tortor sed ut tincidunt massa sit sed. Phasellus in commodo sociis viverra lectus velit.",
+      "chart": {
+        "positive": 23,
+        "negative": 5,
+        "neutral": 72
+      }
+    }
+  ]
+}
