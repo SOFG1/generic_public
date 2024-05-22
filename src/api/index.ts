@@ -21,7 +21,7 @@ const botfarmInstance:AxiosInstance = axios.create({
     baseURL:BOT_FARM_SEVER_URL,
     headers:{
         "X-Authentication":BOT_FARM_TOKEN,
-    }
+    } 
 })
 
 export const handle = (promise: Promise<AxiosResponse<any>>) => {
